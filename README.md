@@ -1,6 +1,6 @@
 # Site-Vagas
 
-visite o site https://gilberto-bombinho.github.io/Site-Vagas/
+visite o site https://gilberto-bombinho.github.io/Site-Vagas/ ou https://02-site-vagas.vercel.app/
 
 Entrega proposta pela Kenzie Academy Brasil, código próprio, não é cópia. Quem desenvolve sabe que existem várias maneiras de fazer a mesma coisa. 
 
